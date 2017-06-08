@@ -6,4 +6,5 @@ GitTest2 line 4
 GitTest1 line 5
 GitTest2 line 5
 GitTest2 line 6
-GitTest1 line 7GitTest2 line 7
+GitTest1 line 7
+GitTest2 line 7
