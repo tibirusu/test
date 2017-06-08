@@ -3,3 +3,4 @@ GitTest1 line 3
 GitTest2 line 3
 GitTest1 line 4
 GitTest2 line 4
+GitTest1 line 5
