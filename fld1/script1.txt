@@ -11,3 +11,4 @@ GitTest1 line 8
 GitTest2 line 8
 GitTest1 line 10
 GitTest2 line 10
+GitTest2 line 11
