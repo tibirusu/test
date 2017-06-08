@@ -7,3 +7,4 @@ GitTest1 line 5
 GitTest2 line 5
 GitTest2 line 6
 GitTest1 line 6
+GitTest2 line 7
