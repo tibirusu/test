@@ -15,4 +15,4 @@ GitTest1 line 12
 GitTest2 line 12
 GitTest1 line 13
 GitTest2 line 13
-GitTest1 line 14
+GitTest2 line 14
